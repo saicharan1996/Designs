@@ -1,0 +1,12 @@
+../rtl/lpm_shiftreg.v
+../rtl/lpm_counter.v
+../rtl/lpm_counter_ud.v
+../rtl/accumulator.v
+../rtl/carrier_mixer.v
+../rtl/carrier_nco.v
+../rtl/code_gen.v
+../rtl/code_nco.v
+../rtl/epoch_counter.v
+../rtl/time_base.v
+../rtl/tracking_channel.v
+../rtl/gps_baseband.v
